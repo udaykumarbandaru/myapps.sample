@@ -1,0 +1,14 @@
+C:\Tim Corey\Module02Lesson06\ArrayHomework\bin\Debug\ArrayHomework.exe.config
+C:\Tim Corey\Module02Lesson06\ArrayHomework\bin\Debug\ArrayHomework.exe
+C:\Tim Corey\Module02Lesson06\ArrayHomework\bin\Debug\ArrayHomework.pdb
+C:\Tim Corey\Module02Lesson06\ArrayHomework\obj\Debug\ArrayHomework.csprojAssemblyReference.cache
+C:\Tim Corey\Module02Lesson06\ArrayHomework\obj\Debug\ArrayHomework.csproj.CoreCompileInputs.cache
+C:\Tim Corey\Module02Lesson06\ArrayHomework\obj\Debug\ArrayHomework.exe
+C:\Tim Corey\Module02Lesson06\ArrayHomework\obj\Debug\ArrayHomework.pdb
+C:\Tim Corey\C#\Module02\ArrayHomework\bin\Debug\ArrayHomework.exe.config
+C:\Tim Corey\C#\Module02\ArrayHomework\bin\Debug\ArrayHomework.exe
+C:\Tim Corey\C#\Module02\ArrayHomework\bin\Debug\ArrayHomework.pdb
+C:\Tim Corey\C#\Module02\ArrayHomework\obj\Debug\ArrayHomework.csprojAssemblyReference.cache
+C:\Tim Corey\C#\Module02\ArrayHomework\obj\Debug\ArrayHomework.csproj.CoreCompileInputs.cache
+C:\Tim Corey\C#\Module02\ArrayHomework\obj\Debug\ArrayHomework.exe
+C:\Tim Corey\C#\Module02\ArrayHomework\obj\Debug\ArrayHomework.pdb

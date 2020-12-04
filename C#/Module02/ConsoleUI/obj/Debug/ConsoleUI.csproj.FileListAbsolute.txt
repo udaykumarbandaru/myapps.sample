@@ -1,0 +1,14 @@
+C:\Users\Tim\Source\Repos\Module02Lesson06\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Tim\Source\Repos\Module02Lesson06\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Tim\Source\Repos\Module02Lesson06\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Tim\Source\Repos\Module02Lesson06\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Tim\Source\Repos\Module02Lesson06\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Source\Repos\Module02Lesson06\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Tim\Source\Repos\Module02Lesson06\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Tim Corey\Module02Lesson06\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Tim Corey\Module02Lesson06\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Tim Corey\Module02Lesson06\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Tim Corey\Module02Lesson06\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Tim Corey\Module02Lesson06\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Tim Corey\Module02Lesson06\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Tim Corey\Module02Lesson06\ConsoleUI\obj\Debug\ConsoleUI.pdb

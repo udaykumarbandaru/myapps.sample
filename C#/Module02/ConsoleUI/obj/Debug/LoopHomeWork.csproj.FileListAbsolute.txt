@@ -1,0 +1,13 @@
+C:\Tim Corey\Module02Lesson06\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Tim Corey\Module02Lesson06\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Tim Corey\Module02Lesson06\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Tim Corey\Module02Lesson06\ConsoleUI\obj\Debug\LoopHomeWork.csproj.CoreCompileInputs.cache
+C:\Tim Corey\Module02Lesson06\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Tim Corey\Module02Lesson06\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Tim Corey\C#\Module02\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Tim Corey\C#\Module02\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Tim Corey\C#\Module02\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Tim Corey\C#\Module02\ConsoleUI\obj\Debug\LoopHomeWork.csprojAssemblyReference.cache
+C:\Tim Corey\C#\Module02\ConsoleUI\obj\Debug\LoopHomeWork.csproj.CoreCompileInputs.cache
+C:\Tim Corey\C#\Module02\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Tim Corey\C#\Module02\ConsoleUI\obj\Debug\ConsoleUI.pdb

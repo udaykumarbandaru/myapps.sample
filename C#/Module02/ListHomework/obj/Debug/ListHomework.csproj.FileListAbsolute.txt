@@ -1,0 +1,13 @@
+C:\Tim Corey\Module02Lesson06\ListHomework\bin\Debug\ListHomework.exe.config
+C:\Tim Corey\Module02Lesson06\ListHomework\bin\Debug\ListHomework.exe
+C:\Tim Corey\Module02Lesson06\ListHomework\bin\Debug\ListHomework.pdb
+C:\Tim Corey\Module02Lesson06\ListHomework\obj\Debug\ListHomework.csproj.CoreCompileInputs.cache
+C:\Tim Corey\Module02Lesson06\ListHomework\obj\Debug\ListHomework.exe
+C:\Tim Corey\Module02Lesson06\ListHomework\obj\Debug\ListHomework.pdb
+C:\Tim Corey\C#\Module02\ListHomework\bin\Debug\ListHomework.exe.config
+C:\Tim Corey\C#\Module02\ListHomework\bin\Debug\ListHomework.exe
+C:\Tim Corey\C#\Module02\ListHomework\bin\Debug\ListHomework.pdb
+C:\Tim Corey\C#\Module02\ListHomework\obj\Debug\ListHomework.csprojAssemblyReference.cache
+C:\Tim Corey\C#\Module02\ListHomework\obj\Debug\ListHomework.csproj.CoreCompileInputs.cache
+C:\Tim Corey\C#\Module02\ListHomework\obj\Debug\ListHomework.exe
+C:\Tim Corey\C#\Module02\ListHomework\obj\Debug\ListHomework.pdb
